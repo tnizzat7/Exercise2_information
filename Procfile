@@ -1,0 +1,1 @@
+web: guniorn Exercise2_information.wsgi --log-file -
